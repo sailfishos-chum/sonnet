@@ -1,8 +1,8 @@
-%global kf5_version 5.108.0
+%global kf5_version 5.115.0
 %global framework sonnet
 
 Name: opt-kf5-sonnet
-Version: 5.108.0
+Version: 5.115.0
 Release: 1%{?dist}
 Summary: KDE Frameworks 5 Tier 1 solution for spell checking
 
